@@ -58,7 +58,7 @@ The program then recommends up to 10 recipes matching the criteria, displaying:
 - Matplotlib
 
 ## Report
-A detailed report on the project is available [here](link-to-your-report). It provides a comprehensive overview of the scraping process, data analysis, and insights.
+A detailed report on the project is available [Click the PDF]([https://www.skinnytaste.com](https://github.com/Xahidian/What-Should-I-Cook-Tonight-/blob/main/MiniProject1Zahid.pdf)). It provides a comprehensive overview of the scraping process, data analysis, and insights.
 
 ## Contact
 If you have any questions or would like to discuss the project further, feel free to reach out to me.  
