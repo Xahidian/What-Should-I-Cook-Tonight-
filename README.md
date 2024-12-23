@@ -1,4 +1,4 @@
-# Mini Project 1 – Recipe Recommendation Based on Calorie and Personal Point Ranges
+# Mini Project 1 – Recipe Recommendation Based on Calorie and Personal Point Ranges.
 
 ## Author: Md Hasibul Haque Zahid
 ## Student ID: 2302302
